@@ -123,6 +123,7 @@ This Extension is intended for educational purposes only:
 
 If you have questions about this Privacy Policy or the Extension's data practices, please contact:
 
+**Email Support**:Buildstack4u@gmail.com
 **Telegram Support Bot**: http://t.me/adelinopohelpbot
 
 ## Compliance
@@ -148,3 +149,4 @@ By installing and using the Adelino PO - Educational Trading Simulator Extension
 ---
 
 **Summary**: This Extension does not collect, transmit, or share any user data. All simulation settings are stored locally on your device for your educational and content creation purposes only.
+
